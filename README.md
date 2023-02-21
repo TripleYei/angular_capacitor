@@ -1,2 +1,2 @@
 # angular_capacitor
-Convertir web Angular a móvil
+Convertir web Angular a móvil con Capacitor
