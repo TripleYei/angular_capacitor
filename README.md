@@ -6,5 +6,9 @@ Convertir web Angular a móvil con Capacitor
 Usamos el proyecto de Angular material ,ir al proyecto <a href="https://angularmaterialyei.netlify.app/"> Angular Material</a> y se convierte a móvil.
 
 
+
+## Resultado
+
+
 <img src="IMG/app.png">
 <img src="IMG/movil.png">
